@@ -1,1 +1,1 @@
-My first readme
+Sample readme file
